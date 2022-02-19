@@ -1,4 +1,3 @@
 # GUI-PickandChill
-Solo un repositorio para Guardar Codigo
+Diseño adaptado a un Raspberry tft touch module
 
-ESTOY COMIENDO UN MOLLETE DE FRIJOLES 
